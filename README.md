@@ -36,3 +36,12 @@ DEVELOPED IN B.S.ABDUR RAHMAN UNIVERSITY---SCHOOL MANAGEMENT SYSTEM
 	
 	The project was developed as a part of the curriculum for the course IP lab(CS405).
 
+Procedure to run the file:-
+1. Open the NetBeans IDE software
+2. The start page of the Netbeans IDE is displayed
+3. In the menu, click File and then Open project
+4. Select the project folder and click OK
+5. The project with its files are opened in the project tab
+6. Choose run project option from the toolbar
+7. Specify the required input in order to generate results
+7. 
